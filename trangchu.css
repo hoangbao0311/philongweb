@@ -192,6 +192,7 @@ a {
     margin-right: auto;
     position: relative;
     width: 100%;
+    object-fit: contain;
 }
 
 
